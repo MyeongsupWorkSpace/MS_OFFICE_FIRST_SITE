@@ -21,15 +21,21 @@ canvas {
 
 #portfolio-link {
   position: fixed;
-  left: 40%;
-  /* right: 80%; */
+  left: 50%;
+  transform: translateX(-50%);
+  /* right: 50%; */
   bottom: 5%;
   /* top: 5%; */
-  color: #bdc7bd;
+  color: #a9b9ce;
   text-decoration: none;
-  font-size: 3rem;
+  font-size: 2rem;
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
   /* font-style: italic; */
   /* z-index: 1; */
+}
+#T_2 {
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
 }
