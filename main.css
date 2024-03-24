@@ -35,7 +35,20 @@ canvas {
   /* z-index: 1; */
 }
 #T_2 {
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  /* background-color: rgb(77, 156, 83); */
+}
+#F_1 {
   color: rgb(0, 0, 0);
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
+  /* background-color: rgb(0, 0, 0); */
 }
+/* .album_1 {
+  background-image: url('images/img_1_1.jpg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+} */
