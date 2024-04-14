@@ -1,13 +1,48 @@
-#  더블 나인 식스
-## 1. GDD
-## 2. 레벨디자인
-## 3. 세계관
-## 4. 스토리
-## 5. 시나리오
-### 5-1. 메인 시나리오
-### 5-2. 캐릭터 설정
-### 5-3.아이템 설정
-### 5-4.몬스터 설정
-### 5-5.배경 설정
-### 5-6.스킬 설정
-## 6. 스토리보드
+# 명섭의 포트폴리오
+
+<p style="text-align:=center;">
+  <br>
+  <img src="./images/Title_sub_2_7.jpg">
+  <br>
+</p>
+
+목차
+
+## 프로젝트 목차
+
+
+| 에스테리아 | Silence Of Space |  Project NoA   |  작업중   |
+| :--------: | :--------: | :------: | :-----: |
+|   ![js]    |   ![ts]    | ![react] | ![node] |
+
+<br>
+
+## 구현 기능
+
+### 기능 1
+
+### 기능 2
+
+### 기능 3
+
+### 기능 4
+
+<br>
+
+## 배운 점 & 아쉬운 점
+
+<p style="text-align:=justify;">
+
+</p>
+
+<br>
+
+
+
+[js]: (https://sunny-tanuki-5b97cb.netlify.app/pages/sub01)
+[ts]: (https://sunny-tanuki-5b97cb.netlify.app/pages/sub02)
+[react]: (https://sunny-tanuki-5b97cb.netlify.app/pages/sub03)
+[node]: /images/stack/node.svg
+
+
+

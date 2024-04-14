@@ -19,6 +19,14 @@ canvas {
   );
 } */
 
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
 #portfolio-link {
   position: fixed;
   left: 50%;
@@ -41,6 +49,13 @@ canvas {
   /* background-color: rgb(77, 156, 83); */
 }
 #F_1 {
+  color: rgb(0, 0, 0);
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  /* background-color: rgb(0, 0, 0); */
+}
+
+#F_3 {
   color: rgb(0, 0, 0);
   font-family: 'Times New Roman', Times, serif;
   font-weight: bold;
