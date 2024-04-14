@@ -1,12 +1,10 @@
-# 명섭의 포트폴리오
+# 명섭이의 포트폴리오
 
 <p style="text-align:=center;">
   <br>
   <img src="./images/Title_sub_2_7.jpg">
   <br>
 </p>
-
-목차
 
 ## 프로젝트 목차
 
@@ -19,13 +17,13 @@
 
 ## 구현 기능
 
-### 기능 1
+### 에스테리아
 
-### 기능 2
+### Silence Of Space
 
-### 기능 3
+### Preject NoA
 
-### 기능 4
+### 작업중
 
 <br>
 
@@ -37,12 +35,10 @@
 
 <br>
 
-
-
-[js]: (https://sunny-tanuki-5b97cb.netlify.app/pages/sub01)
-[ts]: (https://sunny-tanuki-5b97cb.netlify.app/pages/sub02)
-[react]: (https://sunny-tanuki-5b97cb.netlify.app/pages/sub03)
-[node]: /images/stack/node.svg
+[js]: /images/TITLE_1.jpg
+[ts]: /images/Title_2.png
+[react]: /images/
+[node]: /images/
 
 
 
